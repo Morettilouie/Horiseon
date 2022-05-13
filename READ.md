@@ -11,4 +11,6 @@ Horiseon
 
 5. Added comments to index and css files
 
-<link rel="" href="./index.html">
+<img src="./assets/images/Horiseon-Screenshot.png" alt="Screen shot of Horiseon Demo"/>
+
+<a href="">Horiseon</a>
