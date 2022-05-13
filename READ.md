@@ -1,4 +1,5 @@
-CORRECTIONS FROM THE STARTER CODE
+# Horiseon
+Horiseon
 
 1. ID linked from header to Search Engine Optimization section
 
@@ -6,4 +7,8 @@ CORRECTIONS FROM THE STARTER CODE
 
 3. Consolidated CSS properties in the Content and Benefit sections to one CSS selector
 
-Added classes to the headers and images to consolidate to less CSS selectors
+4. Added classes to the headers and images to consolidate to less CSS selectors
+
+5. Added comments to index and css files
+
+<link rel="" href="./index.html">
