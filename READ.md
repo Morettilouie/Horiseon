@@ -13,4 +13,4 @@ Horiseon
 
 <img src="./assets/images/Horiseon-Screenshot.png" alt="Screen shot of Horiseon Demo"/>
 
-<a href="">Horiseon</a>
+<a href="https://github.com/Morettilouie/Horiseon.git">Horiseon</a>
